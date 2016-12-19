@@ -30,7 +30,7 @@
   <project path="device/qcom/sepolicy" name="device_qcom_seploicy" revision="f7.1" remote="fun" />
   <project path="frameworks/base" name="frameworks_base" revision="f7.1" remote="fun" />
   <project path="fun" name="fun" revision="f7.1" remote="fun" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" revision="f7.1" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" revision="f7.1" remote="fun" />
   <project path="vendor/fun" name="vendor_fun" revision="f7.1" remote="fun" />
 
   <!-- SlimRoms -->
